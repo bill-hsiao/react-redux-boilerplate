@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Boilerplate to Make Life Easier
+## React-Redux App Boilerplate
 
 This project comes with the following:
 react-redux react-router-dom redux redux-logger redux-thunk
